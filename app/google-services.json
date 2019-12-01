@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301946192245",
+    "firebase_url": "https://authencd.firebaseio.com",
+    "project_id": "authencd",
+    "storage_bucket": "authencd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301946192245:android:180b3f5bffb1432710933c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301946192245-ttlong64a0ddfaubd35vfn6sakgjbtug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTx-xxBessWpVn_Y4DJRG9yfMBMw-0QKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301946192245-ttlong64a0ddfaubd35vfn6sakgjbtug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
